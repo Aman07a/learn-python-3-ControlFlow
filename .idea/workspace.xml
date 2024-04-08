@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2852097a-63f8-47b6-bdc9-af383c973563" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/else-if-statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/review.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.boolean-operators-not.executor": "Run",
     "Python.boolean-operators-or.executor": "Run",
     "Python.boolean-variables.executor": "Run",
+    "Python.else-if-statements.executor": "Run",
     "Python.else-statements.executor": "Run",
     "Python.if-statement.executor": "Run",
     "Python.relational-operators-I.executor": "Run",
