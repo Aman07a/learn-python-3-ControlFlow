@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2852097a-63f8-47b6-bdc9-af383c973563" name="Changes" comment="" />
+    <list default="true" id="2852097a-63f8-47b6-bdc9-af383c973563" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/type-errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +62,7 @@
     "Python.relational-operators-II.executor": "Run",
     "Python.review.executor": "Run",
     "Python.syntax-errors.executor": "Run",
+    "Python.type-errors.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
